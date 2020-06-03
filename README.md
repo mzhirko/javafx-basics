@@ -1,6 +1,6 @@
 **Жирко М. С. гр. 821701**
-_lib: **_JavaFx_** Ind.Task №14_ \
->  _./gradelew run_ to run the program 
+_lib: **_JavaFx_** Ind.Task №14_ 
+> **_./gradelew run_** to run the program 
 
 # Software in Intellectual Systems
 ## 1st lab
